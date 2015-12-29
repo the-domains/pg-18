@@ -1,7 +1,7 @@
 name: PG-18
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.02566
+typography_spectrum: 0.02807
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#1b1519'
     - '#504253'
     - '#dd6442'
-  brandStrength: 0.7609686818905175
+  brandStrength: 0.25
   lightness: 1
   saturation: 0
   rhythmicContrast: 1
