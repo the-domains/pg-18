@@ -1,0 +1,28 @@
+name: PG-18
+favicon: null
+layout_spectrum: 0.9161795317195356
+typography_spectrum: 0.3712375077884644
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7609686818905175
+  lightness: 0.04904074058867991
+  saturation: 0.07322091259993613
+  rhythmicContrast: 0.8105268983636051
+purpose: []
