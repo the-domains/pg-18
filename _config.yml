@@ -1,7 +1,7 @@
 name: PG-18
 favicon: null
 layout_spectrum: 0.9161795317195356
-typography_spectrum: 0.3712375077884644
+typography_spectrum: 0.02566
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#f2f2f4'
+    - '#ac828c'
+    - '#1b1519'
+    - '#504253'
+    - '#dd6442'
   brandStrength: 0.7609686818905175
   lightness: 0.04904074058867991
   saturation: 0.07322091259993613
